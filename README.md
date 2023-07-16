@@ -21,5 +21,9 @@ To run this program, you need:
 ## License
 This program is released under the [MIT License](https://raw.githubusercontent.com/SahilDShaw/spelling-checker-python/main/LICENSE). Feel free to modify and distribute it as per the terms of the license.
 
+## Contributors
+- [Sahil Shah](https://github.com/SahilDShaw)
+- [Sandeep](https://github.com/sandeeep580)
+
 ## Disclaimer
 This program calculates the edit distance between a given word and words in 'book.txt' to provide suggestions. The suggestions are based on the edit distance and may not always be accurate. The correctness of the suggestions depends on the quality and relevance of the words in the 'book.txt' file. The author and contributors of this program are not responsible for any consequences arising from the use of this program.
